@@ -3,10 +3,10 @@ package B
 import (
 	"fmt"
 
-	"github.com/panicthis/C"
+	"github.com/panicthis/E"
 )
 
 func Visit() {
-	fmt.Println("B 1.2.0")
-	C.Visit()
+	fmt.Println("B 1.3.0")
+	E.Visit()
 }
